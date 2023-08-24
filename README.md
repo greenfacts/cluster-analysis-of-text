@@ -1,4 +1,4 @@
-# cluster-analysis-of-text
+# Cluster Analysis of Text
 
 The work compares two methods for topic analysis of COVID-19 articles.
 
